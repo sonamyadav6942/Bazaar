@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sonamyadav6942/static/css/main.6dfb287f.css",
+    "main.js": "/sonamyadav6942/static/js/main.1eee3ac1.js",
+    "static/media/googleLogo.png": "/sonamyadav6942/static/media/googleLogo.7dbc7ea39eb97007c7f4.png",
+    "index.html": "/sonamyadav6942/index.html",
+    "main.6dfb287f.css.map": "/sonamyadav6942/static/css/main.6dfb287f.css.map",
+    "main.1eee3ac1.js.map": "/sonamyadav6942/static/js/main.1eee3ac1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dfb287f.css",
+    "static/js/main.1eee3ac1.js"
+  ]
+}
